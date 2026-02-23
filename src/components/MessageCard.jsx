@@ -15,19 +15,23 @@ function MessageCard({ isActive }) {
 
   const recipientName = "Sanjena";
   const senderName = "Sai";
-  const message = `Sanjena,
+  const message = `Kuttyma,
 
-Your personalized birthday message goes here.
+From that day, on the rocks of Lower Peirce, to this very moment, every second has been a beautiful moment in our chapter. Your smile lights up my world, and your laughter is the sweetest melody to my ears. On this special day, I want you to know how deeply you are loved and cherished. 
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+You are not just my girlfriend, but my best friend, my confidante, and the love of my life. I am grateful for every memory we've created together and excited for all the adventures that lie ahead. Always remember that you are amazing, strong, and capable of achieving anything you set your heart on da en chellamey.
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+I can't wait until that day, where we are on stage, surrounded by our loved ones, and we are going 3 rounds around the fire, (and we go 3 rounds that night as well hehehe), and we tie the knot, going home together, and we continuing our forever where i am your husband, and you are my everything.
 
-Happy Birthday! 🎉
+Even though we are apart, my love for you knows no distance. I am sending you all my love and warmest wishes on your birthday. May this year bring you endless happiness, success, and all the love you deserve da en pondatti.
 
-— Saimadhav`;
+I know life has thrown many challenges our way, and I may not be the best person to deal with from time to time, I want you to know how much I appreciate always being there for me, supporting me, and loving me unconditionally. You are my rock, my safe haven, and I am so lucky to have you in my life. Please hold on to me, and I promise, we will get through everything together pookie.
+
+I love you da kanna. You are my everything, and I can't wait to celebrate many more birthdays with you.
+
+Happy Birthday Mi Amor! 🎉
+
+— un purushan, Sai🤍`;
 
   // Handle page transitions
   useEffect(() => {
